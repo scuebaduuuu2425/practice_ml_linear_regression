@@ -66,14 +66,14 @@ y = b0 + b1x1 + b2x2 + ... + bnxn
 ## How to Run the Project <br>
 
 1️⃣ Clone Repository
-git clone https://github.com/scuebaduuuu2425y/task1_ml_linear_regression.git
+git clone https://github.com/scuebaduuuu2425y/practice_ml_linear_regression.git
 
 2️⃣ Install Dependencies <br>
 pip install -r requirements.txt
 
 3️⃣ Run Jupyter Notebook <br>
 Open:
-notebooks/task1_ml_linear_regression.ipynb
+notebooks/practice_ml_linear_regression.ipynb
 
 4️⃣ Run Prediction App <br>
 python app/app.py
